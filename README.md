@@ -4,7 +4,7 @@ I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding out
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@achriz_mobdev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/achriz_mobdev)
+[![Twitter Badge](https://img.shields.io/badge/-@achriz_mobdev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/achriz_mobdev) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/)
 
 ## About Me
 - 🔭 I’m currently student in Budi Luhur University.
