@@ -4,7 +4,7 @@ I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding out
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@achriz_mobdev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/achriz_mobdev) [![Mail Badge](https://img.shields.io/badge/-@achriz_mobdev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/achriz_mobdev) [![Mail Badge](https://img.shields.io/badge/-Achmad_Rizki_Nur_Fauzie-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:arizki.nf02@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Achmad_Rizki_Nur_Fauzie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-rizki-nur-fauzie-a2a7021b3/)
+[![Twitter Badge](https://img.shields.io/badge/-@arizkinf-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/arizkinf) [![Mail Badge](https://img.shields.io/badge/-@arizkinf-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/arizkinf) [![Mail Badge](https://img.shields.io/badge/-Achmad_Rizki_Nur_Fauzie-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:arizki.nf02@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Achmad_Rizki_Nur_Fauzie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-rizki-nur-fauzie-a2a7021b3/)
 
 ## About Me
 
