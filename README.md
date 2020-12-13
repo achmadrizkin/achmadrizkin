@@ -1,16 +1,23 @@
-### Hi there 👋
+## I'am a Mobile Developer 
 
-<!--
-**achmadrizkin/achmadrizkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently working on **Slearn** (Professional Courses Platform).
+- 🤔 I’m always learning about flutter.
+- 📫 How to reach me: arizki.nf02@gmail.com.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Project
+
+## Languages and Tools
+![Flutter](https://img.shields.io/badge/<LABEL>-Flutter-3498DB)
+
+## Follow Me
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis)
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=achmadrizkin.achmadrizkin)
+
+#### Github Stats
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=achmadrizkin&count_private=true&theme=tokyonight&hide=contribs,prs)
