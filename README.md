@@ -13,17 +13,9 @@ I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding out
 
 ⚡ Fun fact I love to Coding and Design.
 
-## My Project
-### Click the image if you one see my Source Code!
-
-[![text](https://user-images.githubusercontent.com/75843138/102004640-2bb12700-3d45-11eb-8afa-78242cad394c.png)](https://github.com/achmadrizkin/flutter_calendar) 
-[![text](https://user-images.githubusercontent.com/75843138/102014151-2ecd0700-3d87-11eb-96a4-6efb377065ae.jpeg)](https://github.com/achmadrizkin/flutter_loginUI)
-
-
 ## Languages and Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-61DBFB?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)
 
 
-#### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=achmadrizkin.achmadrizkin)
