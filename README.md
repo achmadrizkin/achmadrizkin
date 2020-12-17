@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=achmadrizkin.achmadrizkin)
 ## Hi I'm Achmad Rizki <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding outstanding projects.
@@ -16,6 +17,7 @@ I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding out
 ## Languages and Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-61DBFB?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)
 
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=achmadrizkin.achmadrizkin)
+## My Project
+click the image if you want see my project !
+[![text](https://user-images.githubusercontent.com/75843138/102004640-2bb12700-3d45-11eb-8afa-78242cad394c.png)](https://github.com/achmadrizkin/flutter_calendar) 
+[![text](https://user-images.githubusercontent.com/75843138/102014151-2ecd0700-3d87-11eb-96a4-6efb377065ae.jpeg)](https://github.com/achmadrizkin/flutter_loginUI)
