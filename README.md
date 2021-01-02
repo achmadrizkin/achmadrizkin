@@ -12,7 +12,7 @@ I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding out
 
 👯 I’m looking to collaborate with other people to make project
 
-🥅 2020 Goals: Contribute more to Open Source projects
+🥅 2021 Goals: Contribute more to Open Source projects
 
 ⚡ Fun fact I love to Coding and Design.
 
