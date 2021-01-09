@@ -24,6 +24,8 @@ I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding out
 
 [![To Do List](https://user-images.githubusercontent.com/75843138/103450700-8b6b7400-4cec-11eb-8ba8-bc92f2efae75.png)](https://github.com/achmadrizkin/flutter_todo_list)
 
+[![Flutter Calculator](https://user-images.githubusercontent.com/75843138/104084153-9b98cb80-5277-11eb-90f1-c555f0065722.png)](https://github.com/achmadrizkin/flutter_calculator)
+
 [![Provider State](https://user-images.githubusercontent.com/75843138/103117016-2d5ee100-469b-11eb-88ab-350a18460bed.png)](https://github.com/achmadrizkin/flutter_switch_animation)
 
 [![Flutter Calendar](https://user-images.githubusercontent.com/75843138/102004640-2bb12700-3d45-11eb-8afa-78242cad394c.png)](https://github.com/achmadrizkin/flutter_calendar) 
