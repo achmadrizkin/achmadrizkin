@@ -20,6 +20,9 @@ I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding out
 ![Flutter](https://img.shields.io/badge/-Flutter-61DBFB?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)
 
 ## My Project (click the image if you want see my project !)
+
+[![Covid Tracker Indonesia](https://user-images.githubusercontent.com/75843138/104833077-b1863c00-58c8-11eb-9eda-f607f494e6c0.jpeg)](https://github.com/achmadrizkin/covid_tracker_indonesia_app)
+
 [![Hero Quiz](https://user-images.githubusercontent.com/75843138/102559265-02581880-4102-11eb-993a-7874adc2661d.png)](https://github.com/achmadrizkin/flutter_hero_quiz)
 
 [![To Do List](https://user-images.githubusercontent.com/75843138/103450700-8b6b7400-4cec-11eb-8ba8-bc92f2efae75.png)](https://github.com/achmadrizkin/flutter_todo_list)
