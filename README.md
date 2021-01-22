@@ -27,6 +27,8 @@ I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding out
 
 [![Hero Quiz](https://user-images.githubusercontent.com/75843138/102559265-02581880-4102-11eb-993a-7874adc2661d.png)](https://github.com/achmadrizkin/flutter_hero_quiz)
 
+[![BMI Calculator](https://user-images.githubusercontent.com/75843138/105481954-4e3a4680-5cda-11eb-9799-e9ea3546284d.png)](https://github.com/achmadrizkin/flutter_bmi_calculator_app)
+
 [![To Do List](https://user-images.githubusercontent.com/75843138/103450700-8b6b7400-4cec-11eb-8ba8-bc92f2efae75.png)](https://github.com/achmadrizkin/flutter_todo_list)
 
 [![Flutter Calculator](https://user-images.githubusercontent.com/75843138/104084153-9b98cb80-5277-11eb-90f1-c555f0065722.png)](https://github.com/achmadrizkin/flutter_calculator)
