@@ -23,6 +23,8 @@ I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding out
 
 [![Covid Tracker Indonesia](https://user-images.githubusercontent.com/75843138/104833077-b1863c00-58c8-11eb-9eda-f607f494e6c0.jpeg)](https://github.com/achmadrizkin/covid_tracker_indonesia_app)
 
+[![Translator App](https://user-images.githubusercontent.com/75843138/106375246-31c69a00-63bd-11eb-9a43-94405ebcd27b.png)](https://github.com/achmadrizkin/flutter_translator_app)
+
 [![News App](https://user-images.githubusercontent.com/75843138/105431307-eeb34b00-5c87-11eb-8f3f-0f52d8e5c07a.png)](https://github.com/achmadrizkin/flutter_news_app)
 
 [![Hero Quiz](https://user-images.githubusercontent.com/75843138/102559265-02581880-4102-11eb-993a-7874adc2661d.png)](https://github.com/achmadrizkin/flutter_hero_quiz)
