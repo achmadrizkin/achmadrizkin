@@ -17,7 +17,7 @@ I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding out
 ⚡ Fun fact I love to Coding and Design.
 
 ## Languages and Tools
-![Flutter](https://img.shields.io/badge/-Flutter-61DBFB?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB)
+![Flutter](https://img.shields.io/badge/-Flutter-61DBFB?style=for-the-badge&labelColor=black&logo=flutter&logoColor=61DBFB) ![Firebase](https://img.shields.io/badge/-Firebase-FFFF00?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFFF00)
 
 ## My Project (click the image if you want see my project !)
 
