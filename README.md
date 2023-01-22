@@ -8,7 +8,7 @@ I'am Achmad Rizki Nur Fauzie a Mobile Developer. I Spend most of time coding out
 [![Twitter Badge](https://img.shields.io/badge/-@arizkinf-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/arizkinf) [![Mail Badge](https://img.shields.io/badge/-@achmadrizkinf@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:arizki.nf02@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-achmadrizkinf-1ca0f1?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmadrizkinf) 
 
 ## About Me
-🌱 I’m currently learning Flutter, and Java
+🌱 I’m currently learning Flutter, Kotlin and Java
 
 👯 I’m looking to collaborate with other people to make project
 
